@@ -22,6 +22,11 @@
 ### Studying in this moment:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=black)&nbsp;
 
+### Libraries
+![Numpy](https://img.shields.io/badge/numpy-4285F4?style=for-the-badge&logo=nympy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-14354C?style=for-the-badge&logo=Pandas&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=Matplotlib&logoColor=white)&nbsp;
+
 
 ### Workstation Tools:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
